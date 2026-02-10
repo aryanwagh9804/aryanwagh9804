@@ -149,6 +149,6 @@
 <br/>
 
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00FFFF,100:0D0D0D&height=120&section=footer&text=⚡+Let's+Build+the+Future+Together&fontSize=18&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" />
+
 
 </div>
