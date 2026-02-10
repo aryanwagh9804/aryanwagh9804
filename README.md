@@ -3,10 +3,7 @@
 <!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:00FFFF,100:7B2FBE&height=200&section=header&text=ARYAN%20WAGH&fontSize=60&fontColor=00FFFF&fontAlignY=38&desc=◈%20Full%20Stack%20Developer%20◈%20AI%20Engineer%20◈%20Builder&descColor=FFFFFF&descSize=16&animation=twinkling&fontAlign=50" />
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=⚡+Crafting+the+Future+with+Code;🚀+Building+AI-Powered+Systems;🌐+Full+Stack+%7C+Web3+%7C+ML+Engineer;🔮+Turning+Ideas+into+Reality;💻+Open+Source+Contributor" alt="Typing SVG" />
-</a>
+
 
 <br/>
 
