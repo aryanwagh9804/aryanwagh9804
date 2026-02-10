@@ -140,40 +140,7 @@
 <br/><br/>
 
 <!-- SNAKE ANIMATION -->
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push Snake SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanwagh9804&bg_color=0D0D0D&color=00FFFF&line=7B2FBE&point=00FFFF&area=true&hide_border=true&area_color=0a0a2e&custom_title=⚡+Aryan's+Contribution+Matrix" />
 
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00FFFF,100:0D0D0D&height=120&section=footer&text=⚡+Let's+Build+the+Future+Together&fontSize=18&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" />
