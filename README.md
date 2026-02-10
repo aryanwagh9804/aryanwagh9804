@@ -126,9 +126,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D0D0D)](https://linkedin.com/in/aryanwagh9804)
-[![Twitter](https://img.shields.io/badge/Twitter-0D0D0D?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=0D0D0D)](https://twitter.com/aryanwagh9804)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=safari&logoColor=00FFFF&labelColor=0D0D0D)](https://aryanwagh.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D0D0D)]([https://linkedin.com/in/aryanwagh9804](https://www.linkedin.com/in/aryan-wagh-7i9a10?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=safari&logoColor=00FFFF&labelColor=0D0D0D)](https://aryanwagh.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0D0D0D)](mailto:aryanwagh9804@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D0D0D)](https://github.com/aryanwagh9804)
 
