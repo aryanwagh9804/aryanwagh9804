@@ -49,10 +49,10 @@
 
 ### 🖥️ Languages
 ![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=00FFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![C++](https://img.shields.io/badge/C++-0D0D0D?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
+
 
 ### 🧠 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D0D0D?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
@@ -69,11 +69,10 @@
 
 ### ⚙️ Backend & Cloud
 ![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=node.js&logoColor=339933)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![AWS](https://img.shields.io/badge/AWS-0D0D0D?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D0D0D?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=336791)
+
 
 </div>
 
